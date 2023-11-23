@@ -1,7 +1,9 @@
-variable "filename"{
-    default ="hello.txt"
-     type = string
+variable "filename" {
+    
 }
 variable "content" {
-  default = "i love my country"
-  }
+      
+}
+variable "prefix" {
+    
+}
